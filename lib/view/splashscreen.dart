@@ -46,7 +46,7 @@ class _SplashScreenState extends State<SplashScreen> {
               ),
               SizedBox(height: 10),
               Text(
-                'Selamat Datang Kamusku!',
+                'Selamat Datang Kamus Mandarin!',
                 style: TextStyle(
                   fontSize: 24,
                   color: Colors.white,
